@@ -4,4 +4,4 @@
 >python final_test_jackyty.py
 * python packages required
 > requests, flask, seaborn, sqlite3, json, bs4
-### Hope your enjoy!
+### Hope you enjoy!
